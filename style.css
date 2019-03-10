@@ -30,6 +30,14 @@
     }
 }
 
+footer .fas {
+    padding: 5px;
+}
+
+.center-text {
+    margin: 0 auto;
+}
+
 body,
 html {
     margin: 0;
